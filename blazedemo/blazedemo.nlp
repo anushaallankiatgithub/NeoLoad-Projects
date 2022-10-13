@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=blazedemo
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=a2c76325-c537-4edc-857a-116299232549
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=8.2.1

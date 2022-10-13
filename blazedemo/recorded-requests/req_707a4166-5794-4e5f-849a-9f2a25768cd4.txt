@@ -1,0 +1,18 @@
+POST https://blazedemo.com/reserve.php HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate, br
+content-type: application/x-www-form-urlencoded
+content-length: 34
+origin: https://blazedemo.com
+referer: https://blazedemo.com/
+cookie: prodperfect_session={%22session_uuid%22:%2202071171-4818-4006-8478-f34dbc95507b%22}; keen={%22uuid%22:%221e0ea1c4-d288-4b56-979e-252884bbf82a%22%2C%22initialReferrer%22:null}
+upgrade-insecure-requests: 1
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+te: trailers
+
+fromPort=Paris&toPort=Buenos+Aires
